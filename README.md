@@ -18,5 +18,6 @@
   <a href = "mailto:douglas_alex96@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/douglas-dezid%C3%A9rio-534a8922b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/douglas-dezid%C3%A9rio-534a8922b/" target="_blank](https://wa.link/qo5cox)"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  
 </div>
+
+![hippo](https://media3.giphy.com/media/0vYk7h9wTJe9LvfLLY/giphy.gif)
