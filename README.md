@@ -1,10 +1,12 @@
 
 <h1 align="center"> Olá! Me chamo Douglas Dezidério </h1>
 <div align="center">
-- 🔭 Hoje busco me inserir no mercado de trabalho;
-- 🌱 Estudando Javascript;
-- ⚡ Formado em Análise e Desenvolvimento de Sistemas.
-- 📫 Email: douglas_alex96@hotmail.com
+  <ul>
+    <li >🔭 Hoje busco me inserir no mercado de trabalho;</li>
+    <li>🌱 Estudando Javascript;</li>
+    <li>⚡ Formado em Análise e Desenvolvimento de Sistemas.</li>
+    <li>📫 Email: douglas_alex96@hotmail.com</li>
+  </ul>
 </div>
 <br>
 <div style="display: inline_block" align="center">
