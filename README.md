@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Me chamo Douglas Dezidério 👋
 
 - 🔭 Hoje busco me inserir no mercado de trabalho
 - 🌱 Estudando Javascript
